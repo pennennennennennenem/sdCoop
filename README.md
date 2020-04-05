@@ -17,6 +17,4 @@
 </ul>
 
 各エフェクトの見た目や使い方の概略については動画をご参照ください
-https://www.nicovideo.jp/watch/sm
-
-現在動画のアップロード中です、お待ちください…
+https://www.nicovideo.jp/watch/sm36627594
